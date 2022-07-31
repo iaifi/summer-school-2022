@@ -6,9 +6,9 @@
 
 ### Foundations of Geometric Deep Learning
 1. [Tutorial 1 - Regular Group Convolutions](https://colab.research.google.com/drive/1vRwW3fsdQhsgW60cUpkzh5KTGC-fjZk1?usp=sharing) by Denis Boyda
-   - [answers](google.com)
+   - [answers](https://www.google.com/)
 2. [Tutorial 2 - Steerable Convolutions]()  by Denis Boyda
-    - [answers](google.com)
+    - [answers](https://www.google.com/)
     
 ### Machine Learning for Beyond-the-Standard-Model Physics I
 
