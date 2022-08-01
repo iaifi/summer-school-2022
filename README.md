@@ -9,7 +9,10 @@
    - [answers](https://www.google.com/)
 2. [Tutorial 2 - Steerable Convolutions]()  by Denis Boyda
     - [answers](https://www.google.com/)
-    
+
+### Tutorial I for Model compression and fast machine learning in particle physics: Training Invariant Networks
+1. [Tutorial 1 and 2 - Please see table of contents on the side of this page](https://jduarte.physics.ucsd.edu/iaifi-summer-school/intro.html) by Javier Duarte, Dylan Rankin, and Patrick McCormack
+
 ### Machine Learning for Beyond-the-Standard-Model Physics I
 
 1. [An introduction to probabilistic programming with (Num)Pyro and Jax](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/01_mcmc_and_vi.ipynb) by Siddharth Mishra-Sharma
