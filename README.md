@@ -21,4 +21,4 @@
 ## Hackathon Ideas
 * [Deep generative modeling of galaxy images](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/03_hackathon_prompt.ipynb)
 * [Reproducing some results with Steerable CNNs](https://docs.google.com/document/d/13TVpSOTihMPLL6WYAVCrWRudmqne2FI49SyXZb2nBjI/edit?usp=sharing)
-* [Particle Classification for a Neutrino Detector (Liquid argon time projection chamber)](https://github/NuTufts/lartpc_ml_tutorial)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NuTufts/lartpc_ml_tutorial/blob/main/LArTPC_Example.ipynb)
+* [Particle Classification for a Neutrino Detector (Liquid argon time projection chamber)](https://github.com/NuTufts/lartpc_ml_tutorial)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NuTufts/lartpc_ml_tutorial/blob/main/LArTPC_Example.ipynb)
