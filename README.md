@@ -19,7 +19,7 @@
    - We start by studying a toy model of machine learning to gain more intuition about *kernels*.
 
 2. [Neural Tangents Cookbook](https://colab.research.google.com/github/google/neural-tangents/blob/main/notebooks/neural_tangents_cookbook.ipynb#scrollTo=cIkq2O7yVWYJ)
-   - We will get familiar with the Neural Tangents Library using Google's own tutorial.
+   - We will get familiar with the [Neural Tangents Library](https://github.com/google/neural-tangents) using Google's own tutorial.
 
 
 ### Machine Learning for Beyond-the-Standard-Model Physics
