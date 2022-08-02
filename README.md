@@ -13,10 +13,10 @@
 ### Tutorial I for Model compression and fast machine learning in particle physics: Training Invariant Networks
 1. [Tutorial 1 and 2 - Please see table of contents on the side of this page](https://jduarte.physics.ucsd.edu/iaifi-summer-school/intro.html) by Javier Duarte, Dylan Rankin, and Patrick McCormack
 
-### Machine Learning for Beyond-the-Standard-Model Physics I
+### Machine Learning for Beyond-the-Standard-Model Physics
 
-1. [An introduction to probabilistic programming with (Num)Pyro and Jax](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/01_mcmc_and_vi.ipynb) by Siddharth Mishra-Sharma
-2. [Deep probabilistic programming](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) by Siddharth Mishra-Sharma
+1. [Tutorial 1: Connecting theory and observations: An introduction to probabilistic programming with Jax and NumPyro](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/01_mcmc_and_vi.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smsharma/iaifi-summer-school-tutorials/blob/main/01_mcmc_and_vi.ipynb)
+2. [Tutorial 2: An introduction to deep probabilistic programming](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) 
 
 ## Hackathon Ideas
 * [Deep generative modeling of galaxy images](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/03_hackathon_prompt.ipynb)
