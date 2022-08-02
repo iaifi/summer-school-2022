@@ -10,11 +10,19 @@
 2. [Tutorial 2 - Steerable Convolutions](https://colab.research.google.com/drive/1TX7cYxeSQIzLzxaTBtV8hNFv5X7YDT6R?usp=sharing)  by Denis Boyda
     - [answers](https://www.google.com/)
 
-### Tutorial I for Model compression and fast machine learning in particle physics: Training Invariant Networks
+### Model compression and fast machine learning in particle physics: Training Invariant Networks
 1. [Tutorial 1 and 2 - Please see table of contents on the side of this page](https://jduarte.physics.ucsd.edu/iaifi-summer-school/intro.html) by Javier Duarte, Dylan Rankin, and Patrick McCormack
 
-### Machine Learning for Beyond-the-Standard-Model Physics
 
+### Deep Learning in the Large-Width Regime
+1. [Feature Regression Model](http://colab) by Anna Golubeva
+   - We start by studying a toy model of machine learning to gain more intuition about *kernels*.
+
+2. [Neural Tangents Cookbook](https://colab.research.google.com/github/google/neural-tangents/blob/main/notebooks/neural_tangents_cookbook.ipynb#scrollTo=cIkq2O7yVWYJ)
+   - We will get familiar with the Neural Tangents Library using Google's own tutorial.
+
+
+### Machine Learning for Beyond-the-Standard-Model Physics
 1. [Tutorial 1: Connecting theory and observations: An introduction to probabilistic programming with Jax and NumPyro](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/01_mcmc_and_vi.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smsharma/iaifi-summer-school-tutorials/blob/main/01_mcmc_and_vi.ipynb) by Siddharth Mishra-Sharma
 2. [Tutorial 2: An introduction to deep probabilistic programming](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) by Siddharth Mishra-Sharma
 
