@@ -15,7 +15,7 @@
 
 
 ### Deep Learning in the Large-Width Regime
-1. [Feature Regression Model](http://colab) by Anna Golubeva
+1. [Feature Regression Model](https://colab.research.google.com/drive/1r88kzpuDAhQ2Qr9sWGH2ywjLijIenmWd#scrollTo=zmFqukWeJFqu) by Anna Golubeva
    - We start by studying a toy model of machine learning to gain more intuition about *kernels*.
 
 2. [Neural Tangents Cookbook](https://colab.research.google.com/github/google/neural-tangents/blob/main/notebooks/neural_tangents_cookbook.ipynb#scrollTo=cIkq2O7yVWYJ)
