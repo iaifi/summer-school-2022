@@ -8,7 +8,7 @@
 1. [Tutorial 1 - Regular Group Convolutions](https://colab.research.google.com/drive/1vRwW3fsdQhsgW60cUpkzh5KTGC-fjZk1?usp=sharing) by Denis Boyda
    - [answers](https://colab.research.google.com/drive/1yTn8WJ_ABORMsCY0NjjMhExbKN9xS9o9)
 2. [Tutorial 2 - Steerable Convolutions](https://colab.research.google.com/drive/1TX7cYxeSQIzLzxaTBtV8hNFv5X7YDT6R?usp=sharing)  by Denis Boyda
-    - [answers](https://www.google.com/)
+    - [answers](https://colab.research.google.com/drive/1iSR_gPyBClwWivcQK1wvIHhtqib8W4R1)
 
 ### Model compression and fast machine learning in particle physics: Training Invariant Networks
 1. [Tutorial 1 and 2 - Please see table of contents on the side of this page](https://jduarte.physics.ucsd.edu/iaifi-summer-school/intro.html) by Javier Duarte, Dylan Rankin, and Patrick McCormack
