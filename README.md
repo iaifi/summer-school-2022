@@ -27,8 +27,8 @@
 2. [Tutorial 2: An introduction to deep probabilistic programming](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) by Siddharth Mishra-Sharma
 
 ### Machine Learning for Quantum Many-Body Physics
-1. [Tutorial 1: Supervised Learning and Unsupervised Leanring of a Rydberg atom array (https://colab.research.google.com/drive/1zxdzaRCIxDKIv93BciVlirOr9nQrLJNL?usp=sharing#scrollTo=H7thFPQB7W3Q)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] by Di Luo
-2. [Tutorial 2: Quantum tomography and free energy calculation with RNN]
+1. [Tutorial 1: Supervised Learning and Unsupervised Leanring of a Rydberg atom array (https://colab.research.google.com/drive/1zxdzaRCIxDKIv93BciVlirOr9nQrLJNL?usp=sharing#scrollTo=H7thFPQB7W3Q).[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] by Di Luo
+3. [Tutorial 2: Quantum tomography and free energy calculation with RNN]
 
 ## Hackathon Ideas
 * [Deep generative modeling of galaxy images](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/03_hackathon_prompt.ipynb)
