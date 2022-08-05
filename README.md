@@ -27,8 +27,8 @@
 2. [Tutorial 2: An introduction to deep probabilistic programming](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smsharma/iaifi-summer-school-tutorials/blob/main/02_deep_prob_prog.ipynb) by Siddharth Mishra-Sharma
 
 ### Machine Learning for Quantum Many-Body Physics
-1. [Tutorial 1: Supervised Learning and Unsupervised Leanring of a Rydberg atom array (https://colab.research.google.com/drive/1zxdzaRCIxDKIv93BciVlirOr9nQrLJNL?usp=sharing#scrollTo=H7thFPQB7W3Q).[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] by Di Luo
-2. [Tutorial 2: Variational Simulation of Rydberg Atom Hamiltonian;(https://colab.research.google.com/drive/1Uj5ophGukG8V9zrKpAqsWNQQVc_GqQIE?usp=sharing) Flow Based Model Optimization of Lattice Field Theory.  (https://colab.research.google.com/drive/16KVSiE7u0Or4bS6kfzgrYwhFAXVK_6dR?usp=sharing)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] by Di Luo
+1. Tutorial 1: Supervised Learning and Unsupervised Leanring of a Rydberg atom array [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zxdzaRCIxDKIv93BciVlirOr9nQrLJNL?usp=sharing#scrollTo=H7thFPQB7W3Q) by Di Luo
+2. Tutorial 2: Variational Simulation of Rydberg Atom Hamiltonian [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uj5ophGukG8V9zrKpAqsWNQQVc_GqQIE?usp=sharing) and Flow Based Model Optimization of Lattice Field Theory [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16KVSiE7u0Or4bS6kfzgrYwhFAXVK_6dR?usp=sharing) by Di Luo
 
 ## Hackathon Ideas
 * [Deep generative modeling of galaxy images](https://github.com/smsharma/iaifi-summer-school-tutorials/blob/main/03_hackathon_prompt.ipynb)
